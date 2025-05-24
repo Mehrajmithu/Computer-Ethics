@@ -67,13 +67,13 @@ To fully understand the document, readers should have:
 For questions or feedback regarding this assignment, contact:  
 **Maharaj Mithu**  
 **Student ID**: 2002053  
-**Email**: [Insert Student Email, if applicable]  
+**Email**: [mehrajmithu53@gmail.com]  
 **Institution**: Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200, Bangladesh  
 
 For course-related inquiries:  
 **Pankaj Bhowmik**  
 **Lecturer, Department of Computer Science and Engineering**  
-**Email**: [Insert Lecturer Email, if available]
+**Email**: [pankaj.cshstu@gmail.com]
 
 ## License
 This document is an academic submission and is not licensed for commercial use. It may be shared or referenced for educational purposes with proper attribution to the author and institution.
